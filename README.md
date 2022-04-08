@@ -1,4 +1,8 @@
-# Dynamical_Systems_in_JuliaLang
+# Dynamical Systems in JuliaLang
+#### Introduction to JuliaLang guest lecture I did for a computiational physics and complex systems course.
 
+- ##### Discloser: these notebooks were created when I had only 3 months experience with Julia. I do not claim to "know what I am doing" in any professional sense.
 
-<img src="/Forest_Fire.mp4"/>
+#### One file is made for Julia's (Pluto Notebooks)[https://github.com/fonsp/Pluto.jl]
+
+<!-- <img src="/Forest_Fire.gif"/> -->
