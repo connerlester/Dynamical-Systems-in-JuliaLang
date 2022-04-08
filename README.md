@@ -6,4 +6,4 @@
 #### One file uses Julia's Pluto Notebooks https://github.com/fonsp/Pluto.jl
 #### The other is intended for VS Code https://code.visualstudio.com
 
-<img src="/Forest_Fire.gif"  width="250" height="250" />
+<img src="/Forest_Fire.gif"  width="500" height="450" />
